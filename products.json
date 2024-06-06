@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Odop Baju 1",
+    "price": 200000,
+    "image": "img/vintage.png"
+  },
+  {
+    "id": 2,
+    "name": "Odop Baju 2",
+    "price": 150000,
+    "image": "img/vintage2.png"
+  },
+  {
+    "id": 3,
+    "name": "Odop Baju 3",
+    "price": 250000,
+    "image": "img/vintage3.png"
+  },
+  {
+    "id": 4,
+    "name": "Odop Baju 4",
+    "price": 500000,
+    "image": "img/realmadrid.png"
+  },
+  {
+    "id": 5,
+    "name": "Odop Baju 5",
+    "price": 400000,
+    "image": "img/inggris.png"
+  },
+  {
+    "id": 6,
+    "name": "Odop Baju 6",
+    "price": 450000,
+    "image": "img/psg.png"
+  }
+]
